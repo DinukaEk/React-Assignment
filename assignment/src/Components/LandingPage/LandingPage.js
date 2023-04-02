@@ -22,6 +22,9 @@ import slide6 from "../Images/slide5.png";
 export default function LandingPage (){
     return (
         <div>
+
+            {/*------Section 1-------*/}
+
             <div id="hero" className="hero">
                 <div className="frame4">
                     <div className="frame3">
@@ -38,6 +41,8 @@ export default function LandingPage (){
                 </div>
             </div>
 
+
+            {/*------Section 2-------*/}
 
             <div id="grid" className="grid">
                 <div className="frame8">
@@ -59,6 +64,8 @@ export default function LandingPage (){
                 </div>
             </div>
 
+
+            {/*------Section 3-------*/}
 
             <div className="slider">
                 <div class="slide-track">
@@ -103,6 +110,7 @@ export default function LandingPage (){
             </div>
 
 
+            {/*------Section 4-------*/}
 
             <div id="grid2" className="grid2">
                 <div className="frame2">
